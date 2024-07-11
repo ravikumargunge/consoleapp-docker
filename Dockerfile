@@ -25,4 +25,4 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Specify entry point for the application
-ENTRYPOINT [ "dotnet","/src/out/consoleApp-Docker" ]
+ENTRYPOINT [ "dotnet","consoleApp-Docker.dll" ]
