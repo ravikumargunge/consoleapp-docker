@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "consoleApp-Docker/1.0.0": {
+        "runtime": {
+          "consoleApp-Docker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "consoleApp-Docker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/ravikumar/source/repos/consoleApp-Docker/bin/Debug/net8.0/consoleApp-Docker
+/home/ravikumar/source/repos/consoleApp-Docker/bin/Debug/net8.0/consoleApp-Docker.deps.json
+/home/ravikumar/source/repos/consoleApp-Docker/bin/Debug/net8.0/consoleApp-Docker.runtimeconfig.json
+/home/ravikumar/source/repos/consoleApp-Docker/bin/Debug/net8.0/consoleApp-Docker.dll
+/home/ravikumar/source/repos/consoleApp-Docker/bin/Debug/net8.0/consoleApp-Docker.pdb
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.AssemblyInfoInputs.cache
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.AssemblyInfo.cs
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.csproj.CoreCompileInputs.cache
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.dll
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/refint/consoleApp-Docker.dll
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.pdb
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/consoleApp-Docker.genruntimeconfig.cache
+/home/ravikumar/source/repos/consoleApp-Docker/obj/Debug/net8.0/ref/consoleApp-Docker.dll
